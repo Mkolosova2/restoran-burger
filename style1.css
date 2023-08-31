@@ -1,0 +1,112 @@
+.black-block{
+    background-image: url(black-bg.jpg);
+    padding: 100px 0;
+}
+
+
+.left-title{
+    text-align: center;
+    color: orange;
+    font-family: 'Tinos',   serif;
+    font-size: 52px;
+    font-weight: 400;
+    
+    margin-bottom: 20px; 
+}
+
+.left-text{
+    font-weight: 700;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+.right-btn{
+    background-color: orange;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 100px;
+    padding: 14px 17px;
+    font-weight: 700px;
+    transition: background-color 0.2s linear;
+}
+
+.block-holder{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+.dishes-title{
+    font-family: 'Tinos',   serif;
+    font-size: 54px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 132px;
+    margin-bottom: 129px;
+}
+
+.dishes-title span{
+    color: #D67E34;
+}
+
+
+.burgers{
+    display: flex;
+    justify-content: center;
+}
+
+.burgers-item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 29px
+}
+
+.burgers-image{
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+
+
+.burger-text{
+    font-family: 'Tinos',   serif;
+    font-size: 26px;
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+
+.pizza-image{
+    margin-right: 20px;
+}
+
+.dishes-imag{
+    margin-left: 350px;
+
+}
+
+
+.link-up{
+    color: white;
+	float: right;
+	background-color: orange;
+	border-radius: 20px;
+	padding: 10px 20px;
+	text-decoration: none;
+	margin-top: 500px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
